@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/restore.png</file>
+    <file>icon/logoutB.png</file>
+    <file>icon/logout.png</file>
+    <file>icon/class.png</file>
+    <file>icon/close_btn.png</file>
+    <file>icon/marking.png</file>
+    <file>icon/maximize.png</file>
+    <file>icon/minimize.png</file>
+    <file>icon/minimize-sign.png</file>
+    <file>icon/reorder-option.png</file>
+    <file>icon/student-with-graduation-cap.png</file>
+    <file>icon/subject.png</file>
+  </qresource>
+</RCC>
